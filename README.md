@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheMalikShow
 - 👀 I’m interested in Learning Programming and Bloackchain Espacially Smart Contracts
-- 🌱 I’m currently learning Solidity,Java, Pyhton
+- 🌱 I’m currently learning Solidity,React-Native, Django
 - 💞️ I’m looking to collaborate on any related projects
 - 📫 How to reach me Discord :The Malik Show#0296 , Instagram @the.malik.show
 
